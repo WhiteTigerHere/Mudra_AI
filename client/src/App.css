@@ -1,0 +1,4 @@
+body, html { background: #04060f !important; padding-top: 0; margin: 0; }
+#root { background: #04060f !important; }
+.container-fluid { background: transparent !important; }
+canvas { border: none !important; }
